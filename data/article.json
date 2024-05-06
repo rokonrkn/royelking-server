@@ -1,0 +1,27 @@
+[
+    {
+      "date": "15 April",
+      "id": 1,
+      "name": "Our New Miami Beach Hotel Is Open!",
+      "image": "https://i.ibb.co/tPMWXL3/blog-3.jpg",
+      "admin": "0 Comment",
+      "title": "Amet minim mollit no duis sit enim aliqua dolor do amet officia."
+    },
+    {
+      "date": "15 April",
+      "id": 2,
+      "name": "Know the secret of Royalking Resort",
+      "image": "https://i.ibb.co/g3dm2Jj/blog-1.jpg",
+      "admin": "0 Comment",
+      "title": "Amet minim mollit no duis sit enim aliqua dolor do amet officia."
+    },
+    {
+      "date": "15 April",
+      "id": 3,
+      "name": "How to book a Resort in the best price on Mountains",
+      "image": "https://i.ibb.co/YypT7jN/blog-2.jpg",
+      "admin": "0 Comment",
+      "title": "Amet minim mollit no duis sit enim aliqua dolor do amet officia."
+    }
+  ]
+  

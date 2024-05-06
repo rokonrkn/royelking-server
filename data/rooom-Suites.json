@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Luxury Room",
+        "image": "https://i.ibb.co/N71Mcy6/room-3.jpg",
+        "rating": 4.0,
+        "description": "Mattis cras magna morb punar aenean aliquet in. Risus a arcu eget."
+    },
+    {
+        "id": 2,
+        "title": "Deluxe Room",
+        "image": "https://i.ibb.co/GQWX8SJ/room-2.jpg",
+        "rating": 4.5,
+        "description": "Mattis cras magna morb punar aenean aliquet in. Risus a arcu eget."
+    },
+    {
+        "id": 3,
+        "title": "Luxury Room",
+        "image": "https://i.ibb.co/X46Cpqd/room-1.jpg",
+        "rating": 4.5,
+        "description": "Mattis cras magna morb punar aenean aliquet in. Risus a arcu eget."
+    }
+]
